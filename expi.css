@@ -1,0 +1,326 @@
+body{
+    background-image: url(bb5.jpg);
+    background-size: 100% 100%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+ul,li{
+    display: flex;
+    
+}
+li{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+a:hover{
+    cursor: pointer;
+    color: rgb(0, 153, 255);
+}
+nav .active{
+    color: rgb(0, 153, 255);
+}
+.title{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 42%;
+}
+.html{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.css{
+    margin-left: 550px;
+    margin-top: -150px;
+}
+.js{
+    margin-left: 850px;
+    margin-top: -150px;
+}
+.python{
+    margin-top: 40px;
+    margin-left: 400px ;
+}
+.sql{
+    margin-left: 700px;
+    margin-top: -150px;
+}
+@media screen and (max-width:1024px) {
+    body{
+        background-image: url(bb5.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 12px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 60px;
+        margin-top: 40px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .title{
+        color: white;
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 42%;
+    }
+    .html{
+        margin-top: 50px;
+        margin-left: 80px;
+    }
+    .css{
+        margin-left: 380px;
+        margin-top: -150px;
+    }
+    .js{
+        margin-left: 680px;
+        margin-top: -150px;
+    }
+    .python{
+        margin-top: 40px;
+        margin-left: 230px ;
+    }
+    .sql{
+        margin-left: 530px;
+        margin-top: -150px;
+    }
+
+}
+@media screen and (max-width:767px) {
+    body{
+        background-image: url(bb5.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 10px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 40px;
+        margin-top: 40px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .title{
+        color: white;
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 42%;
+    }
+    .html{
+        margin-top: 50px;
+        margin-left: 40px;
+    }
+    .css{
+        margin-left: 300px;
+        margin-top: -150px;
+    }
+    .js{
+        margin-left: 530px;
+        margin-top: -150px;
+    }
+    .python{
+        margin-top: 40px;
+        margin-left: 160px ;
+    }
+    .sql{
+        margin-left: 440px;
+        margin-top: -150px;
+    }
+
+}
+
+@media screen and (max-width:480px){
+    body{
+        background-image: url(bb5.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 8px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 15px;
+        margin-top: 40px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .title{
+        color: white;
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 42%;
+    }
+    .html{
+        margin-top: 50px;
+        margin-left: 40px;
+    }
+    .css{
+        margin-left: 300px;
+        margin-top: -150px;
+    }
+    .js{
+        margin-left: 160px;
+        margin-top: -10px;
+    }
+    .python{
+        margin-top: -15px;
+        margin-left: 40px ;
+    }
+    .sql{
+        margin-left: 300px;
+        margin-top: -150px;
+    }
+
+}
+
+
+@media screen and (max-width:400px){
+    body{
+        background-image: url(bb5.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 7px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 10px;
+        margin-top: 40px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .title{
+        color: white;
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 42%;
+    }
+    .html{
+        margin-top: 50px;
+        margin-left: 5px;
+    }
+    .css{
+        margin-left: 230px;
+        margin-top: -150px;
+    }
+    .js{
+        margin-left: 120px;
+        margin-top: -10px;
+    }
+    .python{
+        margin-top: -15px;
+        margin-left: 5px ;
+    }
+    .sql{
+        margin-left: 230px;
+        margin-top: -150px;
+    }
+
+}
+@media screen and (max-width:360px){
+    body{
+        background-image: url(bb5.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 6.5px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 8px;
+        margin-top: 40px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .title{
+        color: white;
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 42%;
+    }
+    .html{
+        margin-top: 50px;
+        margin-left: 5px;
+    }
+    .css{
+        margin-left: 210px;
+        margin-top: -150px;
+    }
+    .js{
+        margin-left: 110px;
+        margin-top: -10px;
+    }
+    .python{
+        margin-top: -15px;
+        margin-left: 5px ;
+    }
+    .sql{
+        margin-left: 210px;
+        margin-top: -150px;
+    }
+
+}
+
+   

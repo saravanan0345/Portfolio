@@ -1,0 +1,667 @@
+body{
+    background-image: url(bb2.jpg);
+    background-size: 100% 100%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+ul,li{
+    display: flex;
+    
+}
+li{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+a:hover{
+    cursor: pointer;
+    color: rgb(0, 153, 255);
+}
+nav .active{
+    color: rgb(0, 153, 255);
+}
+.top{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 40%;
+    margin-top: 40px;
+}
+.middle{
+    color: rgb(0, 153, 255) ;
+    margin-left: 45%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.phone{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.sub1{
+    color: white;
+    margin-left: 130px;
+}
+.number{
+    color: white;
+    margin-left: 138px;
+    margin-top: 10px;
+}
+.mail{
+    margin-left: 430px;
+    margin-top: -105px;
+}
+.email{
+    color: white;
+    margin-left: 440px;
+}
+.id{
+    color: white;
+    margin-top: 10px;
+    margin-left: 370px;
+}
+.add{
+    margin-left: 700px;
+    margin-top: -125px;
+}
+.addr{
+    color: white;
+    margin-left: 715px;
+}
+.address{
+    color: white;
+    display: flex;
+    width: 150px;
+    margin-left: 680px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.insta{
+    margin-left: 1000px;
+    margin-top: -125px;
+}
+.instagram{
+    color: white;
+    margin-left: 1000px;
+}
+.instaid{
+    color: white;
+    margin-top: 10px;
+    margin-left: 970px;
+}
+.name{
+    color: white;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    margin-top: 90px;
+    margin-left: 80px;
+   
+   
+}
+.thanks{
+    color: rgb(0, 153, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 560px;
+}
+@media screen and (max-width:1024px){
+    body{
+        background-image: url(bb2.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 12px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 65px;
+        margin-top: 49px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .top{
+        color: white;
+        font-weight: bold;
+        font-size: 40px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 40%;
+        margin-top: 40px;
+    }
+    .middle{
+        color: rgb(0, 153, 255) ;
+        margin-left: 45%;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .phone{
+        margin-top: 100px;
+        margin-left: 80px;
+    }
+    .sub1{
+        color: white;
+        margin-left: 70px;
+    }
+    .number{
+        color: white;
+        margin-left: 78px;
+        margin-top: 10px;
+    }
+    .mail{
+        margin-left: 350px;
+        margin-top: -105px;
+    }
+    .email{
+        color: white;
+        margin-left: 360px;
+    }
+    .id{
+        color: white;
+        margin-top: 10px;
+        margin-left: 300px;
+    }
+    .add{
+        margin-left: 600px;
+        margin-top: -125px;
+    }
+    .addr{
+        color: white;
+        margin-left: 615px;
+    }
+    .address{
+        color: white;
+        display: flex;
+        width: 150px;
+        margin-left: 580px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .insta{
+        margin-left: 800px;
+        margin-top: -125px;
+    }
+    .instagram{
+        color: white;
+        margin-left: 800px;
+    }
+    .instaid{
+        color: white;
+        margin-top: 10px;
+        margin-left: 770px;
+    }
+    .name{
+        color: white;
+        font-weight: bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 80px;
+        margin-top: 130px;
+        margin-left: 50px;
+       
+       
+    }
+    .thanks{
+        color: rgb(0, 153, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 400px;
+    }
+
+}
+@media screen and (max-width:767px){
+    body{
+        background-image: url(bb2.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 9px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 45px;
+        margin-top: 49px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .top{
+        color: white;
+        font-weight: bold;
+        font-size: 40px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 37%;
+        margin-top: 40px;
+    }
+    .middle{
+        color: rgb(0, 153, 255) ;
+        margin-left: 44%;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .phone{
+        margin-top: 100px;
+        margin-left: 60px;
+    }
+    .sub1{
+        color: white;
+        margin-left: 50px;
+    }
+    .number{
+        color: white;
+        margin-left: 58px;
+        margin-top: 10px;
+    }
+    .mail{
+        margin-left: 280px;
+        margin-top: -105px;
+    }
+    .email{
+        color: white;
+        margin-left: 290px;
+    }
+    .id{
+        color: white;
+        margin-top: 10px;
+        margin-left: 230px;
+    }
+    .add{
+        margin-left: 470px;
+        margin-top: -125px;
+    }
+    .addr{
+        color: white;
+        margin-left: 485px;
+    }
+    .address{
+        color: white;
+        display: flex;
+        width: 150px;
+        margin-left: 460px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .insta{
+        margin-left: 650px;
+        margin-top: -125px;
+    }
+    .instagram{
+        color: white;
+        margin-left: 650px;
+    }
+    .instaid{
+        color: white;
+        margin-top: 10px;
+        margin-left: 620px;
+    }
+    .name{
+        color: white;
+        font-weight: bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 60px;
+        margin-top: 150px;
+        margin-left: 50px;
+       
+       
+    }
+    .thanks{
+        color: rgb(0, 153, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 290px;
+    }
+
+
+}
+
+@media screen and (max-width:480px){
+    body{
+        background-image: url(bb2.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 8px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 15px;
+        margin-top: 49px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .top{
+        color: white;
+        font-weight: bold;
+        font-size: 40px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 24%;
+        margin-top: 40px;
+    }
+    .middle{
+        color: rgb(0, 153, 255) ;
+        margin-left: 37%;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .phone{
+        margin-top: 50px;
+        margin-left: 60px;
+    }
+    .sub1{
+        color: white;
+        margin-left: 50px;
+    }
+    .number{
+        color: white;
+        margin-left: 58px;
+        margin-top: 10px;
+    }
+    .mail{
+        margin-left: 280px;
+        margin-top: -115px;
+    }
+    .email{
+        color: white;
+        margin-left: 290px;
+    }
+    .id{
+        color: white;
+        margin-top: 10px;
+        margin-left: 230px;
+    }
+    .add{
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .addr{
+        color: white;
+        margin-left: 70px;
+    }
+    .address{
+        color: white;
+        display: flex;
+        width: 150px;
+        margin-left: 40px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .insta{
+        margin-left: 290px;
+        margin-top: -125px;
+    }
+    .instagram{
+        color: white;
+        margin-left: 290px;
+    }
+    .instaid{
+        color: white;
+        margin-top: 10px;
+        margin-left: 270px;
+    }
+    .name{
+        color: white;
+        font-weight: bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 30px;
+        margin-top: 90px;
+        margin-left: 50px;
+       
+       
+    }
+    .thanks{
+        color: rgb(0, 153, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 150px;
+    }
+
+}
+
+@media screen and (max-width:400px){
+    body{
+        background-image: url(bb2.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 7px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 10px;
+        margin-top: 45px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .top{
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 30%;
+        margin-top: 10px;
+    }
+    .middle{
+        color: rgb(0, 153, 255) ;
+        margin-left: 33%;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 15;
+    }
+    .phone{
+        margin-top: 10px;
+        margin-left: 35px;
+    }
+    .sub1{
+        color: white;
+        margin-left: 20px;
+    }
+    .number{
+        color: white;
+        margin-left: 28px;
+        margin-top: 10px;
+    }
+    .mail{
+        margin-left: 260px;
+        margin-top: -110px;
+    }
+    .email{
+        color: white;
+        margin-left: 270px;
+    }
+    .id{
+        color: white;
+        margin-top: 10px;
+        margin-left: 200px;
+    }
+    .add{
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    .addr{
+        color: white;
+        margin-left: 45px;
+    }
+    .address{
+        color: white;
+        display: flex;
+        width: 150px;
+        margin-left: 25px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .insta{
+        margin-left: 260px;
+        margin-top: -125px;
+    }
+    .instagram{
+        color: white;
+        margin-left: 260px;
+    }
+    .instaid{
+        color: white;
+        margin-top: 10px;
+        margin-left: 240px;
+    }
+    .name{
+        color: white;
+        font-weight: bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 25px;
+        margin-top: 50px;
+        margin-left: 50px;
+       
+       
+    }
+    .thanks{
+        color: rgb(0, 153, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 110px;
+    }
+
+}
+@media screen and (max-width:360px){
+    body{
+        background-image: url(bb2.jpg);
+        background-size: 100% 100%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 6.5px;
+    }
+    ul,li{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 8px;
+        margin-top: 38px;
+    }
+    a:hover{
+        cursor: pointer;
+        color: rgb(0, 153, 255);
+    }
+    nav .active{
+        color: rgb(0, 153, 255);
+    }
+    .top{
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 30%;
+        margin-top: 10px;
+    }
+    .middle{
+        color: rgb(0, 153, 255) ;
+        margin-left: 33%;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 15;
+    }
+    .phone{
+        margin-top: 10px;
+        margin-left: 35px;
+    }
+    .sub1{
+        color: white;
+        margin-left: 20px;
+    }
+    .number{
+        color: white;
+        margin-left: 28px;
+        margin-top: 10px;
+    }
+    .mail{
+        margin-left: 240px;
+        margin-top: -110px;
+    }
+    .email{
+        color: white;
+        margin-left: 250px;
+    }
+    .id{
+        color: white;
+        margin-top: 10px;
+        margin-left: 158px;
+    }
+    .add{
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    .addr{
+        color: white;
+        margin-left: 45px;
+    }
+    .address{
+        color: white;
+        display: flex;
+        width: 150px;
+        margin-left: 25px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+    .insta{
+        margin-left: 240px;
+        margin-top: -125px;
+    }
+    .instagram{
+        color: white;
+        margin-left: 240px;
+    }
+    .instaid{
+        color: white;
+        margin-top: 10px;
+        margin-left: 220px;
+    }
+    .name{
+        color: white;
+        font-weight: bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 23px;
+        margin-top: 60px;
+        margin-left: 30px;
+       
+       
+    }
+    .thanks{
+        color: rgb(0, 153, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-left: 70px;
+    }
+
+}
+
+
+
+
+  
